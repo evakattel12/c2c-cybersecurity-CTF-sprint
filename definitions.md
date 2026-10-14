@@ -1,4 +1,0 @@
-CIA Triad:
-- Confidentiality: The sharing of data meant only for specific people with no leaks to other people, i.e. specific data like health data only meant for doctors, but not for executives.
-- Integrity: Accurate, trustworthy, and reliable data that is free from tampering, i.e. information on people on a webpage that is protected through hashes, encryptions, and digital certificates/signatures to maintain said reliable data.
-- Availability: Data that is available in being used, i.e. using redundant systems and connections to make sure that even during an issue, the data can still be available for use by the organization and its consumers.
