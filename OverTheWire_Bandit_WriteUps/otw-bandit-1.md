@@ -1,0 +1,1 @@
+Bandit 1, Linux/general. What it asked: Find the password for level 1. What I tried: Used ls to list file names, used cat readme to read out the file's contents. What worked: Using ls to list and cat readme to list out the file contents worked, a congrats message was shown. Concept learned: ls to list file names, cat <filename> to show file contents. Assistant: N/A

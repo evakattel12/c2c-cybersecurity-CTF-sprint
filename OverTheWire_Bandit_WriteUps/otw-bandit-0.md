@@ -1,0 +1,1 @@
+Bandit 0, Linux/general. What it asked: password to get to level 1. What I tried: Input bandit0 as the password. What worked: Password bandit0 worked, shows congratulations text. Concept learned: inputting a password to enter into next level. Assistant: N/A
