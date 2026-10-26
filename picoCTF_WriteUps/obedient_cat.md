@@ -1,0 +1,1 @@
+picoCTF: Obedient Cat, Linux/general. What it asked: Find the flag in a given link. What I tried: Input wget with the pasted link, then used cat flag (the file name) to open up the file. What worked: cat flag worked, it provided the flag to complete the challenge. Concept learned: Using wget for links, then using cat to open those files. Assistant: N/A
